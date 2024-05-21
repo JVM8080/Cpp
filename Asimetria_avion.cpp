@@ -23,6 +23,7 @@ int main(){
     mAsim=difRPM;
     timeAsim=cont;
     }
+    
     while(sum>0){
     cout<<"inserte el numero de RPM motor del izquierdo: ";
     cin>>RPML;
